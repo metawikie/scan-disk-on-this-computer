@@ -1,6 +1,6 @@
 # Scan Disk on This Computer
 
-[![Scan Disk on This Computer](red2.png)](https://computersolve.com/scan-disk-on-this-computer/)
+[![Scan Disk on This Computer](red2.png)](https://icncomputer.com/scan-disk-on-this-computer/)
 
 Microsoft utility purchased from Norton, which is now Symantec, and included with MS-DOS 6.2 and later, and all versions of Microsoft Windows except Windows NT. ScanDisk is a software utility capable of checking the hard drive or floppy diskette drive for any disk errors. When errors are encountered, ScanDisk will mark those sections of the disk to help prevent information from further issues.
 
